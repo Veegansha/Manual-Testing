@@ -1,0 +1,43 @@
+Bug Report:
+
+Title: Profile picture not updated in Whatsapp
+
+Description:
+
+I tried to update my profile picture in Whatsapp by selecting a new photo from my phone. 
+But, after selecting the new picture, the app did not update my profile picture with the 
+newly selected photo. I have tried many times, but my old profile picture is still there.
+
+Steps to reproduce:
+
+1.Open Whatsapp and go to the profile section.
+2.Tap on the profile picture icon.
+3.Select a new photo from the gallery.
+4.Crop the picture and tap on the save button.
+
+Expected result:
+
+The selected picture should be appearing as my new profile picture.
+
+Actual result:
+
+The old picture is still appearing as my profile picture.
+
+Frequency:
+
+I have tried multiple times to update my profile picture, but the app is still showing 
+my old profile picture.
+
+Device Information:
+
+Device: Samsung Galaxy A32
+Operating system: Android 12
+
+Version Information:
+
+Whatsapp version: 2.23.6.12
+
+Conclusion:
+
+I hope this information will help in resolving the bug, and I look forward to getting 
+this issue rectified so that I can update my profile picture successfully.
