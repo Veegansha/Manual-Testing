@@ -1,0 +1,7 @@
+Check that the user is able to search for available buses based on the destination and date of travel entered.
+Check that the user is able to view the cost details of the selected bus.
+Check whether he able to select a seat.
+Verify that the user is able to provide the required passenger details.
+Check whether all the payment option is working.
+Check that the ticket is conforming.
+Check whether he cancel the tickets.
